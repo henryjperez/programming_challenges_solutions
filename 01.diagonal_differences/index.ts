@@ -14,5 +14,7 @@ function diagonalDifference(arr: number[][]): number {
 const input = [
     [1, 2, 3],
     [4, 5, 6],
-    [7, 8, 9],
+    [9, 8, 9],
 ]; // output 2 (totalL = 15, totalR = 17 (not the values of this input matrix))
+
+console.log(diagonalDifference(input))
