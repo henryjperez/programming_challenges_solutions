@@ -4,10 +4,10 @@ import (
 	"fmt"
 )
 
-func plusMinus(arr []int) {
-	var positives []int
-	var negatives []int
-	var zeros []int
+func plusMinus(arr []int32) {
+	var positives []int32
+	var negatives []int32
+	var zeros []int32
 
 	for _, e := range arr {
 		if e > 0 {
@@ -21,13 +21,13 @@ func plusMinus(arr []int) {
 		}
 	}
 
-	unnecessaryMatrix := [3][]int{positives, negatives, zeros}
+	unnecessaryMatrix := [3][]int32{positives, negatives, zeros}
 	for _, e := range unnecessaryMatrix {
 		fmt.Println(float32(len(e)) / float32(len(arr)))
 	}
 }
 
 func main() {
-	input := []int{-4, 3, -9, 0, 4, 1}
+	input := []int32{-4, 3, -9, 0, 4, 1}
 	plusMinus(input)
 }
