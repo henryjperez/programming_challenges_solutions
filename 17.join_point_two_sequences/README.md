@@ -1,0 +1,1 @@
+# Joint Point of Two Sequences
