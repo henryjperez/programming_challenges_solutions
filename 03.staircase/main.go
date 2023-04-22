@@ -18,5 +18,17 @@ func staircase(n int32) {
 }
 
 func main() {
-	staircase(6)
+	var input int32 = 6
+	fmt.Println(input, "=>")
+	staircase(input)
 }
+
+/*
+Output:
+     #
+    ##
+   ###
+  ####
+ #####
+######
+*/

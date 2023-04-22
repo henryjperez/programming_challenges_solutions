@@ -7,7 +7,7 @@ function staircase(n: number): void {
 }
 
 const input = 6;
-
+console.log(input, "=>");
 staircase(input);
 
 /*
