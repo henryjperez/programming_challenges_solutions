@@ -5,3 +5,8 @@ def plusMinus(arr):
 
 	unnecessaryMatrix = [positives, negatives, zeros]
 	[print(len(i)/len(arr)) for i in unnecessaryMatrix]
+
+
+input = [-4, 3, -9, 0, 4, 1]
+print(input)
+plusMinus(input)

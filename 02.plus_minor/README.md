@@ -1,1 +1,0 @@
-# Plus Minor (Hackerrank)

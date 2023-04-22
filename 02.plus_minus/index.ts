@@ -8,6 +8,8 @@ function plusMinus(arr: number[]): void {
 }
 
 const input = [-4, 3, -9, 0, 4, 1];
+console.log(input)
+plusMinus(input);
 /* 
 PRINT:
 0.500000

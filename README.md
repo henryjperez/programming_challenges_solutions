@@ -4,7 +4,7 @@ Many of the problems in here are from **hackerrank** but there are others that I
 
 ## Content List
 1. [Diagonal Difference](01.diagonal_differences/)
-2. [Plus Minor](02.plus_minor/)
+2. [Plus Minus](02.plus_minus/)
 3. [Staircase](03.staircase/)
 4. [Min Max Sum](04.min_max_sum/)
 5. [Birthday Cake Candles](05.birthday_cake_candles/)
