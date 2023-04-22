@@ -17,4 +17,5 @@ const input = [
     [9, 8, 9],
 ]; // output 2 (totalL = 15, totalR = 17 (not the values of this input matrix))
 
-console.log(diagonalDifference(input))
+const result = diagonalDifference(input);
+console.log(input, "=>", result);
