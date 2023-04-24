@@ -15,3 +15,5 @@ function miniMaxSum(arr: number[]): void {
 }
 
 const input = [1, 2, 3, 4, 5]; // output console.log(10, 14)
+console.log(input);
+miniMaxSum(input);
