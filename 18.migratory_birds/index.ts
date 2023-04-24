@@ -35,7 +35,7 @@ console.log(
 	input,
 	"\n",
 	input2,
-	"\n\nReturn:\n",
+	"\nReturn:\n",
 	result,
 	result2,
 );
