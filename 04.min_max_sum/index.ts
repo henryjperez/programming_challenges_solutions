@@ -1,12 +1,13 @@
 function miniMaxSum(arr: number[]): void {
-    const innerArray = [...arr];
-    innerArray.sort();
-    const length = innerArray.length;
     let minSum = 0;
     let maxSum = 0;
+    
+    const innerArray = [...arr];
+    const length = innerArray.length;
+    innerArray.sort();
 
     for (let i = 0; i < innerArray.length; i++) {
-        if (i < length - 1) {
+        if (i < (length - 1)) {
             minSum += innerArray[i];
         }
         if ((i + 1) < length) {
