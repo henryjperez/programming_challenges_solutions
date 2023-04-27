@@ -12,4 +12,12 @@ function gradingStudents(grades: number[]): number[] {
     return result;
 }
 
-const input = [73, 67, 38, 33,] // output [75, 67, 40, 33]
+const input = [73, 67, 38, 33,];
+const result = gradingStudents(input); // output [75, 67, 40, 33]
+
+console.log(
+    "Given this values:\n",
+    input,
+    "\nResult:",
+    result,
+);
