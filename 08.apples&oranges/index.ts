@@ -18,3 +18,5 @@ console.log(
     "\nResult:",
 );
 countApplesAndOranges(...input)
+
+// The most optimized implementation of this solution is the one in: main.go
