@@ -10,3 +10,11 @@ function countApplesAndOranges(s: number, t: number, a: number, b: number, apple
     console.log(applesLanded.length);
     console.log(orangesLanded.length);
 }
+
+const input = [7, 11, 5, 15, [-2, 2, 1], [5, -6]]
+console.log(
+    "Given this values:\n",
+    input,
+    "\nResult:",
+);
+countApplesAndOranges(...input)
