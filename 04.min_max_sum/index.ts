@@ -6,7 +6,7 @@ function miniMaxSum(arr: number[]): void {
     const length = innerArray.length;
     innerArray.sort();
 
-    for (let i = 0; i < innerArray.length; i++) {
+    for (let i = 0; i < length; i++) {
         if (i < (length - 1)) {
             minSum += innerArray[i];
         }
