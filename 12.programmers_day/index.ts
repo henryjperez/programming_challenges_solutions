@@ -25,6 +25,16 @@ function dayOfProgrammer(year: number): string {
 	}
 }
 
+const input = 2017;
+const result = dayOfProgrammer(input);
+
+console.log(
+	"Given this values:\n",
+	input,
+	"\nResult:",
+	result,
+);
+
 // I didn't quite understood the description
 // So, this solution could be better
 // I guess it could be done with a more specific condition
