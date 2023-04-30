@@ -41,7 +41,7 @@ Well, that's it for me. I hope that his repo helps you in some way or another. �
 11. [Birthday Bar 🐦](11.birthday_bar/)
 12. [Programmer's Day 🐦🐹🐍](12.programmers_day/)
 13. [Between Two Sets ⚪ --- 🐦](13.between_two_sets/)
-14. [Extra Long Factorial 🐦](14.extra_long_factorial/)
+14. [Extra Long Factorial ✅ --- 🐦🐹🐍](14.extra_long_factorial/)
 15. [Angry Professor ✅ --- 🐦🐹🐍](15.angry_professor/)
 16. [Closes to Zero ⚪ --- 🐦](16.closes_to_zero/)
 17. [Join Point for Two Sequences ⚪ --- 🐦](17.join_point_two_sequences/)
