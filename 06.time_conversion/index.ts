@@ -23,4 +23,12 @@ function timeConversion(s: string): string {
 }
 
 
-const input = "07:05:45PM" // output 19:05:45
+const input = "07:05:45PM"; // output 19:05:45
+const result = timeConversion(input);
+
+console.log(
+    "Given this values:\n",
+    input,
+    "\nResult:",
+    result,
+);
