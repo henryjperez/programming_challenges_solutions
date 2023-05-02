@@ -38,7 +38,7 @@ Well, that's it for me. I hope that his repo helps you in some way or another. �
 8. [Apples and Oranges 1️⃣ --- 🐦🐹🐍](08.apples%26oranges/)
 9. [Kangaroo ✅ --- 🐦🐹🐍](09.kangaroo/)
 10. [Factorial ➖ --- 🐦](10.factorial/)
-11. [Birthday Bar 🐦](11.birthday_bar/)
+11. [Birthday Bar ➖ --- 🐦](11.birthday_bar/)
 12. [Programmer's Day 🐦🐹🐍](12.programmers_day/)
 13. [Between Two Sets ⚪ --- 🐦](13.between_two_sets/)
 14. [Extra Long Factorial ✅ --- 🐦🐹🐍](14.extra_long_factorial/)
