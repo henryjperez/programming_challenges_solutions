@@ -46,3 +46,4 @@ Well, that's it for me. I hope that his repo helps you in some way or another. �
 16. [Closes to Zero ⚪ --- 🐦](16.closes_to_zero/)
 17. [Join Point for Two Sequences ⚪ --- 🐦](17.join_point_two_sequences/)
 18. [Migratory Birds ✅ --- 🐦🐹🐍](18.migratory_birds/)
+19. [Divisible Sum Pairs ✅ --- 🐦](19.divisible_sum_pairs/)
