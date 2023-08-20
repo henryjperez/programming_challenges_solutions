@@ -47,3 +47,4 @@ Well, that's it for me. I hope that his repo helps you in some way or another. �
 17. [Join Point for Two Sequences ⚪ --- 🐦](17.join_point_two_sequences/)
 18. [Migratory Birds ✅ --- 🐦🐹🐍](18.migratory_birds/)
 19. [Divisible Sum Pairs ✅ --- 🐦🐹🐍](19.divisible_sum_pairs/)
+22. [Bill Division ✅ --- 🐦🐹🐍](22.bill_division/)
